@@ -4,6 +4,7 @@
 - nim
 - parser
 - tictactoe
+Exercise descriptions in the folders as pdf files.
 
 # Pattern Recognition and Machine Learning course:
 - LLM (Large Language Model)
