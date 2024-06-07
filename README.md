@@ -1,11 +1,11 @@
-#Artificial Intelligence course:
+# Artificial Intelligence course:
 - DegreesOfSeparation
 - Heredity
 - nim
 - parser
 - tictactoe
 
-#Pattern Recognition and Machine Learning course:
+# Pattern Recognition and Machine Learning course:
 - LLM (Large Language Model)
 - MLP (Multi Layer Perceptron)
 - MLP_own (Multi Layer Perceptron with own functions)
